@@ -2,18 +2,19 @@
 
 ---
 
-A high-performance, full-stack chatbot application leverages the Gemini 2.5 Flash model. This project features stateful conversation persistence (memory) and high-fidelity Markdown rendering for AI responses.
+This documentation provides a clean, professional structure for a FastAPI + React chatbot project using the Google Gemini API.
+A high-performance, full-stack chatbot application leverages the Gemini 2.5 Flash model. 
 
 ---
 
 ## ✨ 2026 Key Features
 
 -   **Ultra-Fast Backend:** Built with FastAPI and managed by astral-sh/uv.
--   **Modern UI:** Responsive chat bubbles with real-time "thinking" indicators.
--   **Real-time Interaction:** A chat interface with "typing" indicators.
 -   **Gemini 2.5 Integration:** Uses the latest Flash model for low-latency, high-accuracy responses.
 -   **Asynchronous Backend:** Built with FastAPI to handle multiple concurrent requests efficiently.
-
+-   **Real-time Interaction:** A chat interface with "typing" indicators.
+-   **Modern UI:** Responsive chat bubbles with real-time "thinking" indicators.
+  
 ---
 
 ## 🛠️ Tech Stack
